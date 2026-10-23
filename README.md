@@ -1,0 +1,1 @@
+Projet personnel de CNN pour classification automatique d'un dessin fait à la main. Le but de ce projet est d'améliorer ma capacité à m'auto organiser dans un projet, à trouver de nouvelles idées pour améliorer le système petit à petit, et bien sûr améliorer ma compréhension des CNN et de Pytorch.
