@@ -1,0 +1,16 @@
+{
+  "architecture": "TinyCNN",
+  "class_names": [
+    "airplane",
+    "apple",
+    "cat",
+    "star",
+    "tree"
+  ],
+  "batch_size": 32,
+  "epochs": 20,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "loss_function": "CrossEntropyLoss",
+  "seed": 42
+}
